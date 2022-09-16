@@ -1,0 +1,14 @@
+footer {
+    background-color: #FFFFFF;
+    height: 60px;
+    width: 100%;
+    border-top: 1px solid #CCCCCC;
+    text-align: center;
+    line-height: 60px;
+}
+
+@media screen and (max-width: 600px) {
+    footer{
+        font-size: 1.2rem;
+    }
+}
