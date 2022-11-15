@@ -1,7 +1,5 @@
 header {
-    width: 100%;
-    position: fixed;
-    background-color: #ff0000;
-    height: 70px;
-    top: 0;
+	background-color:#FF0000;
+	height:70px;
+	width:100%;
 }
